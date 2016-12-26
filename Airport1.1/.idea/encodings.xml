@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/by/kvach/ConfigurationManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/by/kvach/LoginLogic.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/by/kvach/MessageManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/by/kvach/SessionRequestContent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/by/kvach/command/ActionCommand.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/by/kvach/command/CommandEnum.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/by/kvach/command/EmptyCommand.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/by/kvach/command/LoginCommand.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/by/kvach/command/LogoutCommand.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/by/kvach/command/SigninCommand.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/by/kvach/controller/Controller.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/by/kvach/dao/DatabaseConnection.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/by/kvach/dao/IClientDAO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/by/kvach/dao/implementation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/by/kvach/dao/implementation/ClientDAO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/by/kvach/factory/ActionFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/by/kvach/filter/EncodingFilter.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

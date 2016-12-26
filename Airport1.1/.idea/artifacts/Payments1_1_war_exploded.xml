@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Payments1.1:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Payments1_1_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Payments1.1/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Payments1.1" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="D:/need/Java/java libs/mysql-connector-java-5.1.38-bin.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../lib/jstl.jar" />
+          <element id="library" level="project" name="javax.servlet:jstl:1.2" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
